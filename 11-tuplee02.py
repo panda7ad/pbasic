@@ -1,0 +1,13 @@
+a=int(input("Enter mark of 1 student :"))
+b=int(input("Enter mark of 2 student :"))
+c=int(input("Enter mark of 3 student :"))
+d=int(input("Enter mark of 4 student :"))
+e=int(input("Enter mark of 5 student :"))
+classmark = []
+classmark.append(a)
+classmark.append(b)
+classmark.append(c)
+classmark.append(d)
+classmark.append(e)
+classmark.sort()
+print(classmark)

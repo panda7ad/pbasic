@@ -1,0 +1,21 @@
+s=set()
+s.add(20)
+s.add(20.0)
+s.add("20")
+print(s)
+s={}
+name=input("enter your name:")
+lang=input("enter your fav lang:")
+s.update({name : lang})
+name=input("enter your name:")
+lang=input("enter your fav lang:")
+s.update({name : lang})
+name=input("enter your name:")
+lang=input("enter your fav lang:")
+s.update({name : lang})
+name=input("enter your name:")
+lang=input("enter your fav lang:")
+s.update({name : lang})
+print(s)
+
+
