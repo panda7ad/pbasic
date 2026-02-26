@@ -1,5 +1,5 @@
 a = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-b = a[0:10]
+b = a[0:10] #INDEXING STAARRT FROM 0
 c = a[:25]
 d = a[::2]
 e = a[0:27:2]
