@@ -10,7 +10,7 @@ print(25 not in a)
 print(" ")
 
 
-b="hello this is adarsh patel"
+b="hello this is Chandashi Gupta"
 print("hello" in b)
 print(" "  in b)
 print("h" in b)
